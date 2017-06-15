@@ -1,2 +1,3 @@
 # base64
-create single line base64 content from an image
+create a single line base64 content from an image.
+[demo here]: akursat.github.io/base64.html akursat.github.io/base64.html
